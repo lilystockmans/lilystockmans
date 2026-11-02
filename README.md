@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&fit=crop&w=1600&q=80" alt="Monochrome motorcycle photo" width="100%" style="max-height: 420px; object-fit: cover; border-radius: 22px; filter: grayscale(100%) contrast(1.08);" />
+  <img width="70%" alt="000087170007 (1)" src="https://github.com/user-attachments/assets/62af78bd-65bb-426a-8d3f-c2195b6d8341" border-radius: 22px; filter: grayscale(100%) contrast(1.08);" />
 </div>
+
 
 <h1 align="center">Lily Stockmans</h1>
 
@@ -16,7 +17,7 @@
 </p>
 
 <p align="center">
-  I build clean digital experiences and enjoy learning the full stack — from interface design to backend logic and AI-powered workflows.
+  Spending a year learning full-stack and AI automation — and learning that AI isn’t everything yet. You still need a human in the loop, maybe not forever. Enjoying life one day at a time.
 </p>
 
 <p align="center">
@@ -36,7 +37,7 @@
 <ul>
   <li>🔭 Experimenting with Claude and other AI tools</li>
   <li>🌱 Learning full-stack development and AI automation at SytNRA PXL</li>
-  <li>📫 Reach me on LinkedIn: <a href="https://www.linkedin.com/in/lilystockmans/">linkedin.com/in/lilystockmans</a></li>
+  <li>📫 Reach me: <a href="https://www.linkedin.com/in/lilystockmans/">linkedin.com/in/lilystockmans</a></li>
   <li>😄 Pronouns: she/her</li>
 </ul>
 
